@@ -10,6 +10,7 @@ Dodds is the first mobile prediction market built on Aptos. We enable users to t
 
 Join the Dodds community by choosing your sign-up method. You can link via Wallet, Google, or X (formerly Twitter). No wallet? No problem! Dodds uses Aptos  connect for a smooth experience with an auto-generated account for you. Just click "Connect" at the top right, pick your favorite sign-in option, make sure you've secured your login credentials, and we'll help you pick a cool username or you can choose your own!
 
+<img width="1200" alt="Frame 1618868846" src="https://github.com/user-attachments/assets/d89ab783-8046-4ebd-a0e8-ff371b0414b9">
 
 
 ## 2. Add Funds to Your Account
